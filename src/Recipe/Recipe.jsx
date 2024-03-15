@@ -7,8 +7,9 @@ const Recipe = () => {
 
     const [wantCook, setWantCook] = useState([]);
 
-    const handleWantCook = (recipe_id) => {
-        console.log("clicked", recipe_id);
+    const handleWantCook = (foodCart) => {
+        const recipe = [...wantCook, foodCart];
+        setWantCook(recipe);
     }
 
 
@@ -21,7 +22,7 @@ const Recipe = () => {
             </div>
             <div className="grid grid-cols-3 gap-4">
                 <FoodCarts handleWantCook={handleWantCook}></FoodCarts>
-                <AddFoods></AddFoods>
+                <AddFoods wantCook={wantCook}></AddFoods>
             </div>
         </div>
     );

@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
 const FoodCart = ({ foodCart, handleWantCook }) => {
-    console.log(foodCart);
     const { recipe_name, recipe_image_url, short_description, ingredients, preparing_time, calories } = foodCart;
     return (
         <div className='p-4 border rounded-2xl space-y-2'>
