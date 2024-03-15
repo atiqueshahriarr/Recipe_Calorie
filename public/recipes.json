@@ -1,0 +1,98 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Stir Fry",
+        "recipe_image_url": "../src/assets/foods/first.jpeg",
+        "short_description": "A delicious and savory chicken stir fry loaded with fresh vegetables.",
+        "ingredients": [
+            "550 g chicken breast",
+            "120 ml soy sauce",
+            "200 g basil leaves",
+            "400 g mushrooms",
+            "1 onion",
+            "3 cloves garlic"
+        ],
+        "preparing_time": "30",
+        "calories": "320"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Pasta Primavera",
+        "recipe_image_url": "https://images.pexels.com/photos/1460872/pexels-photo-1460872.jpeg",
+        "short_description": "A vibrant pasta dish featuring seasonal vegetables and a light olive oil dressing.",
+        "ingredients": [
+            "300 g pasta",
+            "2 zucchinis",
+            "1 red bell pepper",
+            "1 yellow bell pepper",
+            "1 cup cherry tomatoes",
+            "3 tbsp olive oil"
+        ],
+        "preparing_time": "25",
+        "calories": "250"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Grilled Salmon with Lemon Herb Sauce",
+        "recipe_image_url": "https://images.pexels.com/photos/271715/pexels-photo-271715.jpeg",
+        "short_description": "Deliciously grilled salmon fillets served with a tangy lemon herb sauce.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "3 tbsp olive oil",
+            "2 cloves garlic",
+            "1 tbsp fresh dill",
+            "Salt and pepper"
+        ],
+        "preparing_time": "20",
+        "calories": "280"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Caprese Salad",
+        "recipe_image_url": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg",
+        "short_description": "A classic Italian salad featuring fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze.",
+        "ingredients": [
+            "2 large tomatoes",
+            "200 g fresh mozzarella cheese",
+            "1/4 cup fresh basil leaves",
+            "2 tbsp balsamic glaze",
+            "Salt and pepper",
+            "Extra virgin olive oil"
+        ],
+        "preparing_time": "15",
+        "calories": "180"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Mango Chicken Salad",
+        "recipe_image_url": "https://images.pexels.com/photos/764925/pexels-photo-764925.jpeg",
+        "short_description": "A refreshing salad featuring juicy mangoes, tender chicken, and a zesty lime dressing.",
+        "ingredients": [
+            "2 cooked chicken breasts",
+            "2 ripe mangoes",
+            "1 red onion",
+            "2 limes",
+            "1/4 cup cilantro",
+            "Mixed salad greens"
+        ],
+        "preparing_time": "20",
+        "calories": "290"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Homemade Margherita Pizza",
+        "recipe_image_url": "https://images.pexels.com/photos/1566837/pexels-photo-1566837.jpeg",
+        "short_description": "Classic Margherita pizza with a thin crust, topped with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "Pizza dough",
+            "1 cup tomato sauce",
+            "200 g fresh mozzarella cheese",
+            "2 tomatoes",
+            "Fresh basil leaves",
+            "Salt and pepper"
+        ],
+        "preparing_time": "35",
+        "calories": "350"
+    }
+]
